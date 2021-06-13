@@ -1,3 +1,7 @@
+# Authentication using react and firebase
+This is a react app containig features of login, logout, password reset and profile updation using react. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
